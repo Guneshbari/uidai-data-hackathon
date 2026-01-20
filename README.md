@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aadhaar_Logo.svg/512px-Aadhaar_Logo.svg.png" width="90" />
+  <img src="https://uidai.gov.in/images/logo/aadhaar_logo.png" width="90" />
 </p>
 
 <h1 align="center">Aadhaar Coverage Sentinel</h1>
@@ -109,7 +109,7 @@ The approach emphasizes **explainability, operational relevance, and real-world 
 
 **Hackathon:** UIDAI Data Hackathon 2026  
 **Team Name:** Aadhaar Coverage Sentinel  
-**Team Leader:** Anand Kumar
+**Team Leader:** Gunesh Bari
 
 ---
 
